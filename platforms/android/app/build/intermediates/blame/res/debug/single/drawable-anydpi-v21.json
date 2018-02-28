@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

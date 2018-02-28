@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

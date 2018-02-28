@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/6e3668a3fb66f66f239d24db984a13b130dde899/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/pre-dexed/debug/classes_3a09ca4147528473cfced61a4ef7d64347b2ac18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/d511bb6de72c2981434f5d50e09ea2c32d11e272/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/pre-dexed/debug/classes_ccdbc3c27ed5dbea2d7716b71340ea07f15f9f45.jar" />
+    </item>
+
+</items>

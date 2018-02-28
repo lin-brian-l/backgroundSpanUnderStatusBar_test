@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/testing-angular/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
